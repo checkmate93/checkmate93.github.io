@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <meta name="viewport" content="width=width-device">
+    <meta name="viewport" content="width=device-width">
 
 </head>
 <body>
