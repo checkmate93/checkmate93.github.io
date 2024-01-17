@@ -6,16 +6,16 @@
 <body>
     
     <style type="text/css" >
-    p {
+     #jk {
         color: gold;
     }
     #ia {
-        color : yellow 
+        color : red
          }
          
     </style>
    
-   <p> Καλώς ήρθατε στην Εθνική την τράπεζα 🏦 που εμπιστεύεται </p>
+   <p id="jk" ></p> Καλώς ήρθατε στην Εθνική την τράπεζα 🏦 που εμπιστεύεται </p>
    <a href=" https://www.google.com/ " >i-bank  </a>
    <p id="ia" >
        Για αυτό το λογο πρέπει να προσέχεις τι  <strong> link </strong>
