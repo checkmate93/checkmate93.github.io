@@ -5,7 +5,7 @@
 </head>
 <body>
     
-    <style> type="text/css"
+    <style type="text/css" >
     p {
         color: gold;
     }
