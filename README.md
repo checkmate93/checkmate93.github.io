@@ -6,13 +6,13 @@
 <body>
     
     <style> type="text/css"
-    p{
+    p {
         color: gold;
     }
     </style>
    
    <p> Καλώς ήρθατε στην Εθνική την τράπεζα 🏦 που εμπιστεύεται </p>
-   <a href="www.google.com " >i-bank </a>
+   <a href=" https://www.google.com/ " >i-bank </a>
    
 </body>
 </html>
