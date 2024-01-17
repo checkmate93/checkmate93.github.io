@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <meta name="viewport" content="width=240">
+    <meta name="viewport" content="width=120">
 
 </head>
 <body>
