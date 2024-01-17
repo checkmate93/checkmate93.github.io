@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+    
+</head>
+<body>
+    
     <style> type="text/css"
-    title {
+    {
         color: gold;
     }
     </style>
    
-    <title> Καλώς ήρθατε στην Εθνική την τράπεζα 🏦 που εμπιστεύεται </title>
-</head>
-<body>
-    
+    Καλώς ήρθατε στην Εθνική την τράπεζα 🏦 που εμπιστεύεται </title
 </body>
 </html>
