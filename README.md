@@ -5,6 +5,10 @@
 
 </head>
 <body>
+<script>
+   
+    
+</script>
     
     <style type="text/css" >
      #jk {
@@ -22,6 +26,6 @@
    <p id="ab" >
        Απο πισω μπορεί να κρύβεται ενα link με αλλη ονομασία πχ" <a href=" www.kati.px > (ονομα ) </a> "
    </p>
-   
+   <button onClick="count" > Κουμπί</button>
 </body>
 </html>
