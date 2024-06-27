@@ -6,7 +6,12 @@
 </head>
 <body>
 <script>
-   
+    var count= 0;
+    var output=documen.getElementbyId('output');
+function counter()
+    
+count++;
+output.innerHTML=output;
     
 </script>
     
@@ -26,6 +31,8 @@
    <p id="ab" >
        Απο πισω μπορεί να κρύβεται ενα link με αλλη ονομασία πχ" <a href=" www.kati.px > (ονομα ) </a> "
    </p>
-   <button onClick="count" > Κουμπί</button>
+           
+   <button onClick="counter()" > Click Me</button>
+   <p id="output"> </p>
 </body>
 </html>
