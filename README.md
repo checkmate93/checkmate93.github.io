@@ -5,13 +5,16 @@
 
 </head>
 <body>
-
-    var count= 0; var 
+<script>
+    var count= 0;
+    var
         output=document.getElementById('output');
 function counter()
-    
+    {
 count= count + 1 ;
-output.innerHTML=output;
+output.innerHTML = output;
+        }
+<\script>
     
 
     
