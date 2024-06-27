@@ -7,7 +7,7 @@
 <body>
 <script>
     var count= 0;
-    var output=documen.getElementbyId('output');
+    var output=documen.getElementById('output');
 function counter()
     
 count++;
