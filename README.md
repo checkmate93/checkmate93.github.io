@@ -35,7 +35,7 @@ output.innerHTML = output;
        Απο πισω μπορεί να κρύβεται ενα link με αλλη ονομασία πχ" <a href=" www.kati.px > (ονομα ) </a> "
    </p>
            
-   <button onClick="counter()" > Click Me</button>
+   <button onclick="counter()" > Click Me</button>
    <p id="output"> </p>
 </body>
 </html>
